@@ -1,0 +1,15 @@
+.div-selettore {
+    padding: 12px 20px 12px 20px;
+    border-radius: 10px;
+    border: 2px solid;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    background-color: #FEF3C6;
+    border-color: #F59F0A;
+}
+
+.div-selettore select {
+    border: 2px solid #f6aa25;
+    border-radius: 4px;
+    width: 100%;
+    padding: 8px;
+}
